@@ -60,3 +60,4 @@ import '/imports/plugins/included/stripe/register.js';
 import '/imports/plugins/included/taxes-avalara/register.js';
 import '/imports/plugins/included/taxes-taxcloud/register.js';
 import '/imports/plugins/included/ui-search/register.js';
+import '/imports/plugins/custom/reaction-example-theme/register.js';
